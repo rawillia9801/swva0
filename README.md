@@ -1,7 +1,24 @@
 # Southwest Virginia Chihuahua Admin Dashboard
 
-A polished administrative dashboard for managing every operational area of a Chihuahua breeding business, including puppy and litter tracking, buyer applications, payments, health reminders, transport scheduling, website activity, buyer portal activity, Twilio workflows, and Zoho One workflows.
+A real administrative dashboard scaffold for Southwest Virginia Chihuahua.
 
-## Status
+## Current repository target
 
-Project scaffold has been initialized. Source implementation is pending because connector source-file writes were blocked during setup.
+This repository is intended to contain the production-ready admin dashboard scaffold, not a throwaway single-file prototype.
+
+## Required modules
+
+- Dashboard overview
+- Puppy management
+- Litter management
+- Sire and dam records
+- Buyer CRM
+- Applications
+- Twilio calls and SMS
+- Zoho One sync
+- Documents and e-signature workflow
+- Payments
+- Transport
+- Health and weight tracking
+- Website and buyer portal activity
+- Tasks and reports
